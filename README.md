@@ -5,7 +5,21 @@
 
 [![Build Status](https://img.shields.io/travis/angular/angular-cli/master.svg?label=travis)](https://dillinger.io/)
 
-[this](http://apisrv-dashboard-prod-1100.zreem.com/pages/customers/search) is our portal
+[this](http://apisrv-dashboard-prod-1100.zreem.com/pages/customers/search) is our portal `RCS`
+
+```
+blocks
+```
+```sh
+$ cd rcs
+$ npm install
+```
+
+|table|test|
+|------|------|
+|value|value|
+
+> line test
 
 [![read more...]()](http://apisrv-dashboard-prod-1100.zreem.com/pages/customers/search)
 
