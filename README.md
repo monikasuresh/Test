@@ -3,7 +3,7 @@
 
 **Directs to the link**
 
-[![Build Status](https://img.shields.io/travis/angular/angular-cli/master.svg?label=travis)][travis-badge-url]
+![Build Status](https://img.shields.io/travis/angular/angular-cli/master.svg?label=travis)
 
 
 
