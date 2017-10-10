@@ -3,7 +3,7 @@
 
 **Directs to the link**
 
-[![Build Status](https://img.shields.io/travis/angular/angular-cli/master.svg?label=test)](https://dillinger.io/)
+[![Build Status](https://img.shields.io/travis/rust-lang/rust.svg)](https://dillinger.io/)
 
 [this](http://apisrv-dashboard-prod-1100.zreem.com/pages/customers/search) is our `RCS` portal `${package.json.version}`
 ```
