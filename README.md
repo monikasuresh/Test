@@ -4,6 +4,7 @@
 **Directs to the link**
 
 [![Build Status](https://img.shields.io/travis/rust-lang/rust.svg)](https://dillinger.io/)
+[![Build Status](https://img.shields.io/travis/USER/REPO.svg)](http://apisrv-dashboard-prod-1100.zreem.com/pages/dashboard)
 
 [this](http://apisrv-dashboard-prod-1100.zreem.com/pages/customers/search) is our `RCS` portal `${package.json.version}`
 ```
